@@ -1,1 +1,23 @@
+body {
+    background-color: #50575e;
+  }
+h1 {
+    color: #d63638;
+    text-align: center;
+  }
 
+  h2 {
+    color: #001c05;
+    text-align: center;
+  }
+
+  h3 {
+    color: #0a4b78;
+    text-align: center;
+  }
+
+
+  p {
+    font-weight: 500;
+    font-family: sans-serif;
+  }
